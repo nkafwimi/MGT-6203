@@ -24,6 +24,14 @@ $ cd salary_pridiction_for_software_developer
 $ pip install -r requirements.txt
 ```
 
+### Download the Stackoverflow Data
+
+There is a python script written to download the data from source location and saves it in ./Data/source/<year>.csv . Use the below command to download the files. DO NOT PUSH THE SOURCE CSV TO GIT
+
+```
+$ python Scripts/download_survey_data.py --all
+```
+
 ### Launch Jupyter Notebook 
 
 ```
