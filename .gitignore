@@ -210,3 +210,4 @@ cython_debug/
 */Data/source/2019.csv
 */Data/source/2020.csv
 */Data/source/2021.csv
+.DS_Store
